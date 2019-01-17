@@ -46,7 +46,7 @@ $test-image: url(../img/portrait.jpg);
     @content;
   }
 }
-@mixin mediaXL {
+@mixin mediaXl {
   @media screen and (min-width: 1171px) {
     @content;
   }
